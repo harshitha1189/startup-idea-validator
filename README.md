@@ -73,8 +73,7 @@ streamlit run app.py
 
 ## 📈 Future Enhancements
 
-* 🌐 Deploy on Streamlit Cloud or HuggingFace Spaces
-* 🧾 Add PDF resume parsing
+* 🌐 Deploy on Streamlit Cloud or HuggingFace Space
 * 🧠 Integrate OpenAI GPT-4/Claude for better validation logic
 
 ## 🤝 Contributing
